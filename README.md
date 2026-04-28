@@ -1,5 +1,5 @@
 
-<img width="1920" height="1080" alt="Black and Gray Minimalist Creative Portfolio Presentation (1)" src="https://github.com/user-attachments/assets/de11ba45-e0d0-48bd-888e-27721cf7c980" />
+<img width="1920" height="1080" alt="Black and Gray Minimalist Creative Portfolio Presentation (1)" src="https://github.com/user-attachments/assets/4ea99b2a-862e-42dd-8674-7f2eb5b3a75e" />
 
 
 Repositorio dedicado al proceso de testing del proyecto **Sistema de Gestión Full Stack**.
